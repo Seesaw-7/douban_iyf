@@ -1,0 +1,604 @@
+电影清单:
+1. 姑奶奶
+2. 小花
+3. 花旗少林
+4. 上海滩 / 上海灘
+5. 客途秋恨
+6. 搭错车
+7. 笑傲江湖
+8. 人生大事
+9. 欢颜 / 歡顏
+10. 我的父亲母亲
+11. 生活的颤音
+12. 白鸽
+13. 宝莲灯
+14. 完美的日子 / Perfect Days
+15. 金玉满堂 / 金玉滿堂
+16. 邪不压正
+17. 女老千 / 여타짜
+18. 历劫佳人 / Touch of Evil
+19. 新不了情
+20. 菊豆
+21. 快乐的小鸡 / 快樂的小雞
+22. 长别离 / Une aussi longue absence
+23. 日以作夜 / La nuit américaine
+24. 一夜风流 / It Happened One Night
+25. 蓦然回首 / ルックバック
+26. 枪火 / 鎗火
+27. 冬暖
+28. 大路
+29. 你想活出怎样的人生 / 君たちはどう生きるか
+30. 期待你长大 / 期待你長大
+31. 尼罗河女儿 / 尼羅河女兒
+32. 漂流少年 / Sonny Boy
+33. 我自己的爱达荷 / My Own Private Idaho
+34. 风筝 / カイト
+35. 就这样，我们把金鱼放入了泳池 / そうして私たちはプールに金魚を、
+36. 边城
+37. 白色巨塔 / 白い巨塔
+38. 雾都孤儿 / Oliver Twist
+39. 燕尾蝶 / スワロウテイル
+40. 故园风雨后 / Brideshead Revisited
+41. 钱 / L'argent
+42. 孽债
+43. 狮子、爱、谎言 / Lions Love
+44. 梁山伯与祝英台 / 梁山伯與祝英台
+45. 公路之王 / Im Lauf der Zeit
+46. 阿基尔，上帝的愤怒 / Aguirre, der Zorn Gottes
+47. 浮云 / 浮雲
+48. 爱情短片 / Krótki film o miłości
+49. 梦境 / 원더랜드
+50. 苦尽柑来遇见你 / 폭싹 속았수다
+51. 遥远的雷声 / অশনি সংকেত
+52. 银翼杀手2049 / Blade Runner 2049
+53. 光荣之路 / Paths of Glory
+54. 大幻影 / La grande illusion
+55. 春风秋雨 / Imitation of Life
+56. 启示 / Apocalypto
+57. 如果·爱
+58. 喜欢你
+59. 郊游 / 郊遊
+60. 艋舺
+61. 香港有个荷里活 / 香港有個荷里活
+62. 消失的情人节 / 消失的情人節
+63. 天注定
+64. 她 / Her
+65. 云图 / Cloud Atlas
+66. 鲸鱼马戏团 / Werckmeister harmóniák
+67. 黑暗中的舞者 / Dancer in the Dark
+68. 在西伯利亚森林中 / Dans les forêts de Sibérie
+69. 与玛格丽特的午后 / La tête en friche
+70. 日落大道 / Sunset Blvd.
+71. 花落花开 / Séraphine
+72. 伦敦一家人 / Ethel & Ernest
+73. 鬓边不是海棠红
+74. 我是古巴 / Я - Куба
+75. 苦月亮 / Bitter Moon
+76. 故乡 / Heimat - Eine Chronik in elf Teilen
+77. 我们这一家 / あたしンち
+78. 榅桲树阳光 / El sol del membrillo
+79. 被遗忘的祖先的阴影 / Тіні забутих предків
+80. 很可能是魔鬼 / Le diable probablement
+81. 1966：我的红卫兵时代
+82. 熊的故事 / L'ours
+83. 电子云层下 / Под электрическими облаками
+84. 不散
+85. 自由的幻影 / Le fantôme de la liberté
+86. 幻梦墓园 / รักที่ขอนแก่น
+87. 人约巴黎 / Les rendez-vous de Paris
+88. 飞向太空 / Солярис
+89. 我们一起游荡在夜的黑暗中，然后被烈火吞噬 / In girum imus nocte et consumimur igni
+90. 记忆中的玛妮 / 思い出のマーニー
+91. 酒精计划 / Druk
+92. 生之欲 / 生きる
+93. 永远的三丁目的夕阳 / ALWAYS 三丁目の夕日
+94. 麦秋 / 麥秋
+95. 搭错车 / 搭錯車
+96. 红鳉鱼 / 赤めだか
+97. 魔卡少女樱 / カードキャプターさくら
+98. 独自在夜晚的海边 / 밤의 해변에서 혼자
+99. 男孩、鼹鼠、狐狸和马 / The Boy, the Mole, the Fox and the Horse
+100. 灌篮高手 / The First Slam Dunk
+101. 神厨小福贵
+102. 虹猫蓝兔七侠传
+103. 帝国大厦 / Empire
+104. 零年中的孤单六十秒 / 60 Seconds of Solitude in Year Zero
+105. 卡里加里博士的小屋 / Das Cabinet des Dr. Caligari
+106. 谁能带我回家 / آینه
+107. 石榴的颜色 / Նռան գույնը
+108. 城市之光 / City Lights
+109. 玻璃唇 / Blood of a Poet
+110. 对她说 / Hable con ella
+111. 亚利桑那之梦 / Arizona Dream
+112. 印度之歌 / India Song
+113. 昨天
+114. 迷墙 / Pink Floyd The Wall
+115. 呼喊与细语 / Viskningar och rop
+116. 梦想者四夜 / Quatre nuits d'un rêveur
+117. 蜂巢幽灵 / El espíritu de la colmena
+118. 甜甜的那家伙 / 달달한 그놈
+119. 五至七时的克莱奥 / Cléo de 5 à 7
+120. 南方 / Sur
+121. 恐惧吞噬灵魂 / Angst essen Seele auf
+122. 死囚越狱 / Un Condamné à mort s'est échappé
+123. 白痴 / Idioterne
+124. 喋血双雄 / 喋血雙雄
+125. 麦兜故事 / 麥兜故事
+126. 木屐树 / L'albero degli zoccoli
+127. 乡村牧师日记 / Journal d'un curé de campagne
+128. 豹 / Il gattopardo
+129. 站台
+130. 葛楚 / Gertrud
+131. 游戏规则 / La Règle du jeu
+132. 少年派的奇幻漂流 / Life of Pi
+133. 艾特熊和赛娜鼠 / Ernest et Célestine
+134. 疯狂约会美丽都 / Les triplettes de Belleville
+135. 夏日插曲 / Sommarlek
+136. 福尔摩斯二世 / Sherlock Jr.
+137. 桃色公寓 / The Apartment
+138. 花魁 / さくらん
+139. 静谧的生活 / طبیعت بی جان
+140. 塞瑟岛之旅 / Ταξίδι στα Κύθηρα
+141. 词语 / Ordet
+142. 潜行者 / Сталкер
+143. 后窗 / Rear Window
+144. M就是凶手 / M - Eine Stadt sucht einen Mörder
+145. 去年在马里昂巴德 / L'année dernière à Marienbad
+146. 铁西区第一部分：工厂
+147. 迷魂记 / Vertigo
+148. 让娜·迪尔曼 / Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles
+149. 搜索者 / The Searchers
+150. 随风而逝 / باد ما را خواهد برد
+151. 直到世界尽头 / Bis ans Ende der Welt
+152. 直到世界尽头 / Immer Und Ewig
+153. 黄金三镖客 / Il buono, il brutto, il cattivo
+154. 欧洲电影史 / Cinema Europe: The Other Hollywood
+155. 明日之子 第一季
+156. 紫罗兰永恒花园 / ヴァイオレット・エヴァーガーデン
+157. 恶魔人 哭泣之子 / Devilman: Crybaby
+158. 大都会 / メトロポリス
+159. 攻壳机动队 第一季 / 攻殻機動隊 STAND ALONE COMPLEX
+160. 攻壳机动队2：无罪 / 攻殻機動隊2 イノセンス
+161. 饭 / めし
+162. 溺水小刀 / 溺れるナイフ
+163. 假如爱有天意 / 클래식
+164. 高、低与脆弱之间 / Haut bas fragile
+165. 百鸟朝凤
+166. 老井
+167. 过年
+168. 本命年
+169. 时之旅 / On Time
+170. 小蓝 / 小藍
+171. 英雄儿女
+172. 自杀专卖店 / Le magasin des suicides
+173. 肆式青春 / 詩季織々
+174. 花仔多情
+175. 盛夏光年
+176. 燃烧女子的肖像 / Portrait de la jeune fille en feu
+177. 莫娣 / Maudie
+178. 牧笛
+179. 爱在罗马 / To Rome with Love
+180. 蓝丝绒 / Blue Velvet
+181. 花田喜事 / 花田囍事
+182. 为你钟情 / 為你鍾情
+183. 西北偏北 / North by Northwest
+184. 刑事侦缉档案 / 刑事偵緝檔案
+185. 孤芳不自赏
+186. 狩猎 / Jagten
+187. 蓝 / Blue
+188. 雁南飞 / Летят журавли
+189. 旅行时光 / Время путешествия
+190. 情人 / L'amant
+191. 沙漏
+192. 宸汐缘
+193. 靠近我一点
+194. 困兽
+195. 倾城亦清欢
+196. 小姐 / 아가씨
+197. 牧马人
+198. 降临 / Arrival
+199. 四叠半时光机 / 四畳半タイムマシンブルース
+200. 奥本海默 / Oppenheimer
+201. 天浴
+202. 秋天的故事 / Conte d'automne
+203. 夏天的故事 / Conte d'été
+204. 春天的故事 / Conte de printemps
+205. 亲爱的阿基米德
+206. 我爱喵星人
+207. 疼痛难免 / This Is Going to Hurt
+208. 血观音 / 血觀音
+209. 嘉年华
+210. 祝福 / สุดเสน่หา
+211. 爱情神话 / Fellini - Satyricon
+212. 小亚细亚往事 / Bir Zamanlar Anadolu'da
+213. 家宴 / Festen
+214. 十月 / Октябрь
+215. 莫扎特传 / Amadeus
+216. 乱
+217. 电影史-1A 所有的历史 / Histoire(s) du cinéma: Toutes les histoires
+218. 这里的黎明静悄悄 / А зори здесь тихие
+219. 我们的父辈 / Unsere Mütter, unsere Väter
+220. 国王的演讲 / The King's Speech
+221. 爸爸的好儿子 / That's My Boy
+222. 教室别恋 / Lust och fägring stor
+223. 柯基和伙伴的日常 / Doggie Corgi
+224. 夏目友人帐 第五季 / 夏目友人帳 伍
+225. 乌冬面之国的金色毛球 / うどんの国の金色毛鞠
+226. 鹿枫堂四色日和 / 鹿楓堂よついろ日和
+227. 卫宫家今天的饭 / 衛宮さんちの今日のごはん
+228. 世界奇妙物语 / 世にも奇妙な物語
+229. 母亲 / Mother
+230. 交响情人梦 / のだめカンタービレ
+231. 四重奏 / カルテット
+232. 大宅门
+233. 彗星来的那一夜 / Coherence
+234. 源代码 / Source Code
+235. 记忆碎片 / Memento
+236. 黑天鹅 / Black Swan
+237. 告白
+238. 第六感 / The Sixth Sense
+239. 蝴蝶效应 / The Butterfly Effect
+240. 莉莉
+241. 西洋镜
+242. 小街
+243. 都市里的村庄
+244. 绝响
+245. 山中传奇 / 山中傳奇
+246. 浩劫 / Shoah
+247. 夏青
+248. 工厂大门 / La sortie de l'usine Lumière à Lyon
+249. 烟花 / 打ち上げ花火、下から見るか、横から見るか
+250. 我出生了，但…… / 大人の見る絵本 生れてはみたけれど
+251. 圣山 / La montaña sagrada
+252. 赛德克·巴莱(下)：彩虹桥 / 賽德克·巴萊(下)彩虹橋
+253. 赛德克·巴莱(上)：太阳旗 / 賽德克·巴萊(上)太陽旗
+254. 海角七号 / 海角七號
+255. 青梅竹马 / 青梅竹馬
+256. 光阴的故事 / 光陰的故事
+257. 暴雨将至 / Пред дождот
+258. 红在革命蔓延时 / Le fond de l'air est rouge
+259. 间奏曲 / Entr'acte
+260. 对运动的研究 / Études de mouvements
+261. 桥 / De Brug
+262. 雨 / Regen
+263. 柏林：城市交响曲 / Berlin – Die Sinfonie der Großstadt
+264. 面包店的女孩 / La boulangère de Monceau
+265. 持摄影机的人 / Человек с Киноаппаратом
+266. 立春
+267. 茜茜公主 / Sissi
+268. 夜半歌声
+269. 莫斯科不相信眼泪 / Москва слезам не верит
+270. 钢琴课 / The Piano
+271. 海之歌 / O Canto do Mar
+272. 电影史-2A 单独的电影 / Histoire(s) du cinéma: Seul le cinéma
+273. 甜蜜的生活 / La dolce vita
+274. 玩乐时间 / Play Time
+275. 四次 / Le quattro volte
+276. 关于我母亲的一切 / Todo sobre mi madre
+277. 能召回前世的布米叔叔 / ลุงบุญมีระลึกชาติ
+278. 晚春 / 晩春
+279. 撒旦探戈 / Sátántangó
+280. 新桥恋人 / Les amants du Pont-Neuf
+281. 两生花 / La Double vie de Véronique
+282. 太阳的季节 / 太陽の季節
+283. 出租车司机 / Taxi Driver
+284. 世界旦夕之间 / Welt am Draht
+285. 福音战士新剧场版：破 / ヱヴァンゲリヲン新劇場版：破
+286. 光在呼喊 / Light Is Calling
+287. 爱 / Amour
+288. 柏林苍穹下 / Der Himmel über Berlin
+289. 此房是我造 / The House That Jack Built
+290. 脸庞，村庄 / Visages villages
+291. 不能说的秘密 / 不能說的·祕密
+292. 热带疾病 / สัตว์ประหลาด
+293. 流浪艺人 / Ο Θίασος
+294. 悲惨世界 / Les Misérables
+295. 铁皮鼓 / Die Blechtrommel
+296. 巴山夜雨
+297. 第七封印 / Det sjunde inseglet
+298. 马勒传 / Mahler
+299. 俳句 / Haiku
+300. 偶然与想象 / 偶然と想像
+301. 黑炮事件
+302. 祖与占 / Jules et Jim
+303. 生死恨
+304. 忧郁症 / Melancholia
+305. 纪子的餐桌 / 紀子の食卓
+306. 爱的曝光 / 愛のむきだし
+307. 十字路口的夜晚 / La Nuit du carrefour
+308. BABY BLUE
+309. 神探夏洛克：福至如归 / Sherlock Mini Episode - Many Happy Returns
+310. 幽灵公主 / もののけ姫
+311. 阿玛柯德 / Amarcord
+312. 薄荷糖 / 박하사탕
+313. 罗马，不设防的城市 / Roma, città aperta
+314. 那山那人那狗
+315. 开罗紫玫瑰 / The Purple Rose of Cairo
+316. 半梦半醒的人生 / Waking Life
+317. 侠骨丹心
+318. 男生女相：华语电影之性别 / 男生女相：華語電影之性別
+319. 渺渺
+320. 心动 / 心動
+321. 影子 / Invisibility
+322. 物流 / Logistics
+323. 气氛 / Ambiancé
+324. 四大名捕
+325. 龙门客栈 / 龍門客棧
+326. 好男好女
+327. 南国再见，南国 / 南國再見，南國
+328. 小鞋子 / بچه های آسمان
+329. 爱在日落黄昏时 / Before Sunset
+330. 随心所欲 / Vivre sa vie: Film en douze tableaux
+331. 孩子王
+332. 香火
+333. 香蕉天堂
+334. 红柿子 / 紅柿子
+335. 眩：北斋之女 / 眩～北斎の娘～
+336. 笃姬 / 篤姫
+337. 老师！我可以喜欢你吗？ / 先生！、、、好きになってもいいですか？
+338. 英雄本色3：夕阳之歌 / 英雄本色III夕陽之歌
+339. 放浪记
+340. 银河系漫游指南 / The Hitchhiker's Guide to the Galaxy
+341. 兵临城下 / Enemy at the Gates
+342. 刺客聂隐娘
+343. 破碎太阳之心
+344. 阿尔卑斯山的少女 / アルプスの少女ハイジ
+345. 大提琴手 / セロ弾きのゴーシュ
+346. 百变狸猫 / 平成狸合戦ぽんぽこ
+347. 瞬息全宇宙 / Everything Everywhere All at Once
+348. 妙手小厨师 / ミスター味っ子
+349. 崖上的波妞 / 崖の上のポニョ
+350. 影
+351. 绣春刀
+352. 英雄
+353. 南方车站的聚会
+354. 名侦探柯南：万圣节的新娘 / 名探偵コナン ハロウィンの花嫁
+355. 听到涛声 / 海がきこえる
+356. 夏目友人帐 / 劇場版 夏目友人帳 ～うつせみに結ぶ～
+357. 岁月的童话 / おもひでぽろぽろ
+358. 红猪 / 紅の豚
+359. 起风了 / 風立ちぬ
+360. 猫的报恩 / 猫の恩返し
+361. 再次出发之纽约遇见你 / Begin Again
+362. 乌鸦与麻雀 / 烏鴉与麻雀
+363. 万家灯火 / 萬家燈火
+364. 英国病人 / The English Patient
+365. 廊桥遗梦 / The Bridges of Madison County
+366. 日瓦戈医生 / Doctor Zhivago
+367. 战争与和平 / Война и мир
+368. 小巷名流
+369. 自梳
+370. 故都春梦
+371. 婚姻生活 / Scener ur ett äktenskap
+372. 一个国家的诞生 / The Birth of a Nation
+373. 审判 / Le procès
+374. 梦 / 夢
+375. 幸福 / Le bonheur
+376. 瓦莱莉和她的奇迹一周 / Valerie a týden divů
+377. 鸟，孤儿和愚人 / Vtáčkovia, siroty a blázni
+378. 钢的琴
+379. 长江图
+380. 风中有朵雨做的云
+381. 地久天长
+382. 繁花(影版)
+383. 星月童话 / 星月童話
+384. 摄氏零度·春光再现 / 攝氏零度·春光再現
+385. 我将前往的远方
+386. 舒兰河上
+387. 银翼杀手 / Blade Runner
+388. 十分钟年华老去：大提琴篇 / Ten Minutes Older: The Cello
+389. 西部往事 / C'era una volta il West
+390. 何以为家 / كفرناحوم
+391. 冬天的故事 / Conte d'hiver
+392. 疯狂的石头
+393. 变脸
+394. 百万英镑 / The Million Pound Note
+395. 伊万的童年 / Иваново детство
+396. 压路机和小提琴 / Каток и скрипка
+397. 黄昏的清兵卫 / たそがれ清兵衛
+398. 马路天使 / 馬路天使
+399. 东京家族 / 東京家族
+400. 剃头匠
+401. 盲山
+402. 南海十三郎
+403. 天堂回信
+404. 黑客帝国 / The Matrix
+405. 真假公主 / Anastasia
+406. 热带鱼 / 熱帶魚
+407. 春天情书 / （ハル）
+408. T省的84·85年
+409. 夜奔
+410. 左右情缘 / 左右情緣
+411. 哀乐中年 / 哀樂中年
+412. 纸月亮 / Paper Moon
+413. 虞美人盛开的山坡 / コクリコ坂から
+414. 恐怖分子 / 恐怖份子
+415. 稻草人
+416. 女人，四十
+417. 可可西里
+418. 投名状
+419. 赛德克·巴莱 / 賽德克·巴萊
+420. 红色沙漠 / Il deserto rosso
+421. 尤里西斯的凝视 / Το βλέμμα του Οδυσσέα
+422. 黄金时代
+423. 晓说2017
+424. 后会无期
+425. 天下无双
+426. 别恋 / 別戀
+427. 少年五虎
+428. 来不及说我爱你
+429. 本杰明·巴顿奇事 / The Curious Case of Benjamin Button
+430. 朗读者 / The Reader
+431. 暮光之城 / Twilight
+432. 三国演义
+433. 觉醒年代
+434. 濑户内海 / セトウツミ
+435. 东京大饭店 / グランメゾン東京
+436. 红楼梦
+437. 勇敢的心 / Braveheart
+438. 四海
+439. 罗小黑战记
+440. 瑞克和莫蒂 第一季 / Rick and Morty Season 1
+441. 性爱自修室 第一季 / Sex Education Season 1
+442. 春潮
+443. 孤味
+444. 我们俩
+445. 天水围的日与夜 / 天水圍的日與夜
+446. 鹿鼎记 / 鹿鼎記
+447. 九品芝麻官
+448. 金粉世家
+449. 都灵之马 / A torinói ló
+450. 美国丽人 / American Beauty
+451. 伴我同行 / Stand by Me
+452. 八两金 / 八両金
+453. 流星语 / 流星語
+454. 绿光 / Le rayon vert
+455. 花与爱丽丝杀人事件 / 花とアリス殺人事件
+456. 下一站，天国 / ワンダフルライフ
+457. 滚滚红尘 / 滾滾紅塵
+458. 风月
+459. 天梯：蔡国强的艺术
+460. 大红灯笼高高挂(芭蕾舞剧)
+461. 公主日记 / The Princess Diaries
+462. 悲惨世界 / Les Misérables
+463. 揭秘莎士比亚 第一季 / Shakespeare Uncovered Season 1
+464. 处女泉 / Jungfrukällan
+465. 巫山云雨
+466. 影武者
+467. 似水流年
+468. 地下铁 / 地下鐵
+469. 赤壁(上)
+470. 我爱你 / 그대를 사랑합니다
+471. 爱在午夜降临前 / Before Midnight
+472. 指环王1：护戒使者 / The Lord of the Rings: The Fellowship of the Ring
+473. 面纱 / The Painted Veil
+474. 少年的你
+475. 赤壁(下)
+476. 大佛普拉斯
+477. 两杆大烟枪 / Lock, Stock and Two Smoking Barrels
+478. 地球上的星星 / Taare Zameen Par
+479. 永不消逝的电波
+480. 戏梦巴黎 / The Dreamers
+481. 青木瓜之味 / Mùi đu đủ xanh
+482. 冲天
+483. 似水年华
+484. 浊水漂流 / 濁水漂流
+485. 烈日灼人 / Утомлённые солнцем
+486. 今夜不设防 / 今夜不設防
+487. 花与爱丽丝 / 花とアリス
+488. 山河故人
+489. 拯救大兵瑞恩 / Saving Private Ryan
+490. 假面 / Persona
+491. 远方 / Uzak
+492. 哭泣的草原 / Τριλογία 1: Το Λιβάδι που δακρύζει
+493. 达拉斯买家俱乐部 / Dallas Buyers Club
+494. 地球最后的夜晚
+495. 洛丽塔 / Lolita
+496. 偷自行车的人 / Ladri di biciclette
+497. 苏州河
+498. 河流
+499. 每个人都有他自己的电影 / Chacun son cinéma ou Ce petit coup au cœur quand la lumière s'éteint et que le film commence
+500. 锵锵三人行
+501. 局部 第一季
+502. 八部半 / 8½
+503. 回归 / Возвращение
+504. 志明与春娇 / 志明與春嬌
+505. 大闹天宫
+506. 云上的日子 / Al di là delle nuvole
+507. 那年夏天，宁静的海 / あの夏、いちばん静かな海。
+508. 绿洲 / 오아시스
+509. 大耳朵图图之霸王龙在行动
+510. 我和我的父辈
+511. 一直游到海水变蓝
+512. 喜宴 / 囍宴
+513. 野梨树 / Ahlat Ağacı
+514. 幸福的拉扎罗 / Lazzaro felice
+515. 路边野餐
+516. 推拿
+517. 兰心大剧院
+518. 灿烂人生 / La meglio gioventù
+519. 阿凡达 / Avatar
+520. 半生缘 / 半生緣
+521. 赌神 / 賭神
+522. 玻璃之城
+523. 查理和巧克力工厂 / Charlie and the Chocolate Factory
+524. 搏击俱乐部 / Fight Club
+525. 美国X档案 / American History X
+526. 狮子王 / The Lion King
+527. 惊魂记 / Psycho
+528. 回到未来 / Back to the Future
+529. 终结者2：审判日 / Terminator 2: Judgment Day
+530. 非常嫌疑犯 / The Usual Suspects
+531. 绿里奇迹 / The Green Mile
+532. 生活多美好 / It's a Wonderful Life
+533. 奇遇 / L'avventura
+534. 夜 / La notte
+535. 新龙门客栈 / 新龍門客棧
+536. 现代启示录 / Apocalypse Now
+537. 人工智能 / A.I. Artificial Intelligence
+538. 暗恋桃花源 / 暗戀桃花源
+539. 末路狂花 / Thelma & Louise
+540. 射雕英雄传之东成西就 / 射鵰英雄傳之東成西就
+541. 愿望树 / Древо желания
+542. 艺伎回忆录 / Memoirs of a Geisha
+543. 下女 / 하녀
+544. 午夜巴塞罗那 / Vicky Cristina Barcelona
+545. 无依之地 / Nomadland
+546. 特写 / کلوزآپ
+547. 饲养乌鸦 / Cría cuervos
+548. 大上海
+549. 上海滩 / 上海灘
+550. 杀人回忆 / 살인의 추억
+551. 三峡好人
+552. 诺丁山 / Notting Hill
+553. 人造天堂 / ユリイカ
+554. 阮玲玉
+555. 密阳 / 밀양
+556. 梦旅人 / PicNic
+557. 落水狗 / Reservoir Dogs
+558. 困在时间里的父亲 / The Father
+559. 假如我是真的
+560. 极乐森林 / Forest of Bliss
+561. 红高粱
+562. 海滩的一天 / 海灘的一天
+563. 功夫
+564. 浮生一日 / Life in a Day
+565. 发条橙 / A Clockwork Orange
+566. 二战全史 / The World At War
+567. 二十二
+568. 独立时代 / 獨立時代
+569. 冬冬的假期
+570. 大象席地而坐
+571. 春风沉醉的夜晚
+572. 春江水暖
+573. 初恋这件小事 / สิ่งเล็กเล็กที่เรียกว่า...รัก
+574. 爱乐之城 / La La Land
+575. 大树之歌 / অপুর সংসার
+576. 大河之歌 / অপরাজিত
+577. 红玫瑰白玫瑰 / 紅玫瑰白玫瑰
+578. 千禧曼波
+579. 天若有情
+580. 夜半歌声 / 夜半歌聲
+581. 秋刀鱼之味 / 秋刀魚の味
+582. 罗马 / Roma
+583. 奇迹 / 奇跡
+584. 比海更深 / 海よりもまだ深く
+585. 推手
+586. 如父如子 / そして父になる
+587. 金陵十三钗
+588. 月升王国 / Moonrise Kingdom
+589. 面包和汤和猫咪好天气 / パンとスープとネコ日和
+590. 悠长假期 / ロングバケーション
+591. 西西里的美丽传说 / Malèna
+592. 穿条纹睡衣的男孩 / The Boy in the Striped Pajamas
+593. 七人乐队 / 七人樂隊
+594. 雾中风景 / Τοπίο στην ομίχλη
+595. 雨中曲 / Singin' in the Rain
+596. 真爱至上 / Love Actually
+597. 风之谷 / 風の谷のナウシカ
+598. 大鱼 / Big Fish
+599. 人生果实 / 人生フルーツ
+600. 唐伯虎点秋香 / 唐伯虎點秋香
+601. 断背山 / Brokeback Mountain
+602. 加勒比海盗 / Pirates of the Caribbean: The Curse of the Black Pearl
+603. 绿皮书 / Green Book
