@@ -8,6 +8,7 @@ Check whether films in a douban list are available on iyf.tv
 
 ## Run
 下载对应版本的chrome driver
+
 登录豆瓣，拷贝自己的账号的想看列表url
  eg. `https://movie.douban.com/people/<9位左右用户数字>/wish`
 相应地，修改脚本中`base_url`
